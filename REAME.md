@@ -1,1 +1,0 @@
-'Coding with emacs, so much fun'
